@@ -1,0 +1,22 @@
+{
+  "name": "ab-atmn-pjt",
+  "version": "1.0.0",
+  "description": "Cypres automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aravindhbalaji2018/ui-atmn-in-js.git"
+  },
+  "author": "Aravindh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aravindhbalaji2018/ui-atmn-in-js/issues"
+  },
+  "homepage": "https://github.com/aravindhbalaji2018/ui-atmn-in-js#readme",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}
